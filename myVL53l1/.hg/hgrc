@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/teams/PRISMA-Lab/code/myVL53l1_second
+default = https://os.mbed.com/teams/PRISMA-Lab/code/myVL53l1_second/
